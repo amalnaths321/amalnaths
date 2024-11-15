@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/amalnathsportfoio/static/css/main.095c50d9.css",
+    "main.js": "/amalnathsportfoio/static/js/main.5879ea51.js",
+    "static/js/453.f322cd12.chunk.js": "/amalnathsportfoio/static/js/453.f322cd12.chunk.js",
+    "static/media/amal cc.svg": "/amalnathsportfoio/static/media/amal cc.8fdb26a48ff9b160e3275bada22231e8.svg",
+    "static/media/amalcon.jpg": "/amalnathsportfoio/static/media/amalcon.531a87a4c9b2a38a7cd3.jpg",
+    "static/media/music-p.jpg": "/amalnathsportfoio/static/media/music-p.e6bf7bad2eaadd677bcc.jpg",
+    "index.html": "/amalnathsportfoio/index.html",
+    "main.095c50d9.css.map": "/amalnathsportfoio/static/css/main.095c50d9.css.map",
+    "main.5879ea51.js.map": "/amalnathsportfoio/static/js/main.5879ea51.js.map",
+    "453.f322cd12.chunk.js.map": "/amalnathsportfoio/static/js/453.f322cd12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.095c50d9.css",
+    "static/js/main.5879ea51.js"
+  ]
+}
